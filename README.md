@@ -1,107 +1,120 @@
 <div align="center">
 
-# Hi, I'm Sanhaji 👋
+# hey, i'm Sanhaji 👋
 
-### Building fast, practical infrastructure for AI and the web.
+**I build things, break things, then rebuild them faster.**
 
-I turn complex systems into reliable tools—mostly with **Go**, **TypeScript**, and a strong focus on performance, automation, and self-hosting.
+Mostly playing around with Go, AI infrastructure, gateways, and whatever idea keeps me awake at night.
 
-[![GitHub followers](https://img.shields.io/github/followers/sanhaji182?style=flat-square&label=Followers&color=238636)](https://github.com/sanhaji182?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=sanhaji182&style=flat-square&color=238636)](https://github.com/sanhaji182)
+[![GitHub followers](https://img.shields.io/github/followers/sanhaji182?style=flat&logo=github&label=followers&color=2ea44f)](https://github.com/sanhaji182?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=sanhaji182&style=flat&color=2ea44f&label=visitors)](https://github.com/sanhaji182)
 
 </div>
 
-## What I build
+<br>
 
-- ⚡ High-performance **LLM and API gateways**
-- 🛠️ Reliable **automation and developer tooling**
-- 🖥️ Lightweight, **self-hosted systems**
-- 🔍 Practical experiments across AI infrastructure and web technologies
+```go
+package main
 
-## Featured work
+import "fmt"
+
+func main() {
+    currentlyBuilding := []string{
+        "fast LLM gateways",
+        "boring automation that saves time",
+        "self-hosted tools I actually use",
+    }
+
+    fmt.Println("ship it, learn from it, make it better.")
+}
+```
+
+## a little about me
+
+I'm the kind of person who sees a service using too much RAM and thinks, *"okay, let's rewrite it in Go."*
+
+I enjoy turning messy ideas into tools that are fast, simple to run, and useful beyond a weekend demo. Sometimes that means building an AI gateway. Sometimes it's browser automation. Sometimes I just follow the rabbit hole and see where it goes.
+
+- Currently spending most of my time with **Go** and AI infrastructure
+- I like software that can run on a small server without drama
+- Self-hosting > another monthly subscription
+- If something can be automated, I'll probably automate it
+
+## stuff I've been building
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Lintasan](https://github.com/sanhaji182/lintasan)
+### 🚦 [Lintasan](https://github.com/sanhaji182/lintasan)
 
-A high-performance LLM gateway written in Go, using **35× less RAM** than its original Node.js implementation.
+My Go-powered LLM gateway. It started as a Node.js project, then I got curious about how lean it could be.
 
-`Go` `Svelte` `SQLite` `OpenAI-compatible` `Self-hosted`
+The answer: **35× less RAM.** That rewrite was worth it.
 
-[Explore the repository →](https://github.com/sanhaji182/lintasan)
+`Go` `Svelte` `SQLite` `LLM Gateway`
 
 </td>
 <td width="50%" valign="top">
 
-### [Gateway Realtime](https://github.com/sanhaji182/gateway_realtime)
+### ⚡ [Gateway Realtime](https://github.com/sanhaji182/gateway_realtime)
 
-A TypeScript-based realtime gateway project focused on practical, production-oriented connectivity.
+A realtime gateway built with TypeScript. Somehow this little project found its way to **800+ stars**, which is still pretty wild to me.
 
 `TypeScript` `Realtime` `Gateway`
-
-[Explore the repository →](https://github.com/sanhaji182/gateway_realtime)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [CAPTCHA Solvers Toolkit](https://github.com/sanhaji182/captcha-solvers-toolkit)
+### 🧩 [CAPTCHA Solvers Toolkit](https://github.com/sanhaji182/captcha-solvers-toolkit)
 
-A Rust toolkit collecting integrations and research for browser verification workflows.
+A Rust collection for browser verification and automation experiments. Built while going further down the browser automation rabbit hole than planned.
 
-`Rust` `Browser Automation` `Tooling`
-
-[Explore the repository →](https://github.com/sanhaji182/captcha-solvers-toolkit)
+`Rust` `Browser Automation` `Research`
 
 </td>
 <td width="50%" valign="top">
 
-### Current focus
+### 🔬 probably experimenting with...
 
-Building infrastructure that is:
-
-- Efficient by default
-- Simple to operate
-- Observable and resilient
-- Useful outside the demo
+- AI model routing
+- Smaller and faster services
+- Agents that do actual work
+- One more side project I definitely needed
 
 </td>
 </tr>
 </table>
 
-## Toolbox
+## tools I reach for
 
-<p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,ts,rust,svelte,docker,linux,sqlite,git&perline=8" alt="Go, TypeScript, Rust, Svelte, Docker, Linux, SQLite, and Git" />
 </p>
 
-## GitHub activity
+## the numbers, if you're into that
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sanhaji182&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sanhaji182&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanhaji182&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="Sanhaji's GitHub statistics" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sanhaji182&show_icons=true&hide_border=true&rank_icon=github" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanhaji182&show_icons=true&hide_border=true&rank_icon=github" alt="Sanhaji's GitHub stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sanhaji182&layout=compact&hide_border=true&theme=github_dark&langs_count=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sanhaji182&layout=compact&hide_border=true&theme=default&langs_count=6" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanhaji182&layout=compact&hide_border=true&theme=default&langs_count=6" alt="Most-used languages" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sanhaji182&layout=compact&hide_border=true&langs_count=6" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanhaji182&layout=compact&hide_border=true&langs_count=6" alt="Most used languages" />
   </picture>
 </div>
 
----
+<br>
 
 <div align="center">
-  <strong>Build useful things. Keep them fast. Make them last.</strong>
-  <br /><br />
-  <a href="https://github.com/sanhaji182?tab=repositories">Explore my repositories</a>
+
+When I'm not shipping something, I'm probably rebuilding it.
+
+[**have a look around →**](https://github.com/sanhaji182?tab=repositories)
+
 </div>
