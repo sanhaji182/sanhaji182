@@ -1,46 +1,19 @@
 <div align="center">
 
-# hey, i'm Sanhaji 👋
-
-**I build things, break things, then rebuild them faster.**
-
-Mostly playing around with Go, AI infrastructure, gateways, and whatever idea keeps me awake at night.
-
-[![GitHub followers](https://img.shields.io/github/followers/sanhaji182?style=flat&logo=github&label=followers&color=2ea44f)](https://github.com/sanhaji182?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=sanhaji182&style=flat&color=2ea44f&label=visitors)](https://github.com/sanhaji182)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2EA44F&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Sanhaji+%F0%9F%91%8B;I+build+things%2C+break+them%2C+then+rebuild+them+faster;Go+%7C+LLM+gateways+%7C+self-hosted+tooling)](https://github.com/sanhaji182)
 
 </div>
 
-<br>
+# 💫 About Me:
+I build things, break them, then rebuild them faster — mostly in **Go**.<br>My sweet spot is infrastructure that stays small: LLM gateways, self-hosted services, and automation that quietly saves hours.<br><br>🔭 Currently deep in **Lintasan**, a self-hosted LLM gateway<br>🧰 Daily drivers: Go, TypeScript, Rust, Svelte, SQLite and Docker<br>🤖 Curious about model routing, agents and browser automation<br>⚡ Fun fact: one rewrite came out at **35× less RAM** than the original<br>💬 Ask me about gateways, self-hosting, or why I keep rewriting things
 
-```go
-package main
+## 🌐 Socials:
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanhaji182) [![Lintasan](https://img.shields.io/badge/Lintasan-2ea44f?style=for-the-badge&logo=go&logoColor=white)](https://sanhaji182.github.io/lintasan/)
 
-import "fmt"
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 
-func main() {
-    currentlyBuilding := []string{
-        "fast LLM gateways",
-        "boring automation that saves time",
-        "self-hosted tools I actually use",
-    }
-
-    fmt.Println("ship it, learn from it, make it better.")
-}
-```
-
-## a little about me
-
-I'm the kind of person who sees a service using too much RAM and thinks, *"okay, let's rewrite it in Go."*
-
-I enjoy turning messy ideas into tools that are fast, simple to run, and useful beyond a weekend demo. Sometimes that means building an AI gateway. Sometimes it's browser automation. Sometimes I just follow the rabbit hole and see where it goes.
-
-- Currently spending most of my time with **Go** and AI infrastructure
-- I like software that can run on a small server without drama
-- Self-hosting > another monthly subscription
-- If something can be automated, I'll probably automate it
-
-## stuff I've been building
+## 🚀 A few things I've built
 
 <table>
 <tr>
@@ -48,20 +21,22 @@ I enjoy turning messy ideas into tools that are fast, simple to run, and useful 
 
 ### 🚦 [Lintasan](https://github.com/sanhaji182/lintasan)
 
-My Go-powered LLM gateway. It started as a Node.js project, then I got curious about how lean it could be.
-
-The answer: **35× less RAM.** That rewrite was worth it.
+My Go-powered LLM gateway. Started as a Node.js project, then I got curious about how lean it could get. The answer: **35× less RAM.**
 
 `Go` `Svelte` `SQLite` `LLM Gateway`
+
+[Website](https://sanhaji182.github.io/lintasan/) · [Source](https://github.com/sanhaji182/lintasan)
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚡ [Gateway Realtime](https://github.com/sanhaji182/gateway_realtime)
 
-A realtime gateway built with TypeScript. Somehow this little project found its way to **800+ stars**, which is still pretty wild to me.
+A realtime gateway written in TypeScript. Somehow it found its way to **800+ stars**, which still feels a bit unreal.
 
 `TypeScript` `Realtime` `Gateway`
+
+[Source](https://github.com/sanhaji182/gateway_realtime)
 
 </td>
 </tr>
@@ -70,51 +45,33 @@ A realtime gateway built with TypeScript. Somehow this little project found its 
 
 ### 🧩 [CAPTCHA Solvers Toolkit](https://github.com/sanhaji182/captcha-solvers-toolkit)
 
-A Rust collection for browser verification and automation experiments. Built while going further down the browser automation rabbit hole than planned.
+A Rust collection for browser verification and automation work, built while going further down the rabbit hole than planned.
 
 `Rust` `Browser Automation` `Research`
+
+[Source](https://github.com/sanhaji182/captcha-solvers-toolkit)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔬 probably experimenting with...
+### 🔬 Currently poking at
 
-- AI model routing
-- Smaller and faster services
-- Agents that do actual work
-- One more side project I definitely needed
+- Model routing and fallbacks
+- Smaller, faster services
+- Agents that do real work
+- And one more side project I definitely did not need
 
 </td>
 </tr>
 </table>
 
-## tools I reach for
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sanhaji182&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=sanhaji182&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sanhaji182&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,rust,svelte,docker,linux,sqlite,git&perline=8" alt="Go, TypeScript, Rust, Svelte, Docker, Linux, SQLite, and Git" />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
 
-## the numbers, if you're into that
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sanhaji182&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sanhaji182&show_icons=true&hide_border=true&rank_icon=github" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanhaji182&show_icons=true&hide_border=true&rank_icon=github" alt="Sanhaji's GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sanhaji182&layout=compact&hide_border=true&theme=github_dark&langs_count=6" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sanhaji182&layout=compact&hide_border=true&langs_count=6" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanhaji182&layout=compact&hide_border=true&langs_count=6" alt="Most used languages" />
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-
-When I'm not shipping something, I'm probably rebuilding it.
-
-[**have a look around →**](https://github.com/sanhaji182?tab=repositories)
-
-</div>
+---
+[![](https://komarev.com/ghpvc/?username=sanhaji182&icon=code&color=2ea44f)](https://visitcount.itsvg.in)
